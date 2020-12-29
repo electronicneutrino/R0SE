@@ -1,0 +1,85 @@
+TT: I understand you have recently come into possession of the beta release of "The Game of the Year", as featured in respectable periodicals such as GameBro Magazine.
+EB: that's an ugly rumor.
+EB: whoever told you that is a filthy liar.
+EB: and you should probably stop hitting on him all the time or whatever.
+TT: I can't control myself.
+TT: I must have a weakness for insufferable pricks.
+EB: anyway i still haven't checked the mail, my dad has it.
+EB: i'm trying to go get it from him, so brb
+TT: John.
+EB: what?
+TT: You're wearing one of your disguises now, aren't you?
+TT: You are typing to me right now while wearing something ridiculous.
+EB: no, why would you even think that??
+EB: that's so stupid.
+TT: Ok.
+TT: Why don't you go get the game from your father?
+EB: alright, wish me luck.
+EB: oh, btw...
+EB: jk I was wearing a funny disguise this whole time.
+EB: gotcha! hehehehe
+TT: I know, John.
+
+
+
+TT: It looks like you managed to retrieve the beta. Excellent.
+TT: I'm going to try to connect.
+EB: whoa ok but i just got the most awesome present.
+TT: The rabbit?
+EB: SO SWEET.
+TT: I've heard tales of this wretched creature often. Its Homeric legend is practically ensconced in the fold of my personal mythology by now.
+EB: ha ha, what?
+TT: Why don't we focus on the matter at hand?
+EB: oh the game, ok.
+EB: i don't really know how this works. what am i even looking at here?
+TT: You are running the client application. I am running the server, so I am the host user. I have established a connection with you. This is sufficient for us to play the game.
+EB: oh, ok then.
+TT: Why don't we get started?
+
+EB: whoa, what are you doing??
+TT: Sorry. I'm just getting a feel for the controls.
+EB: is my magic chest on the roof now??
+TT: Yes.
+EB: :(
+TT: I will try to be more careful next time.
+
+
+EB: hey, do you think you could do me a favor?
+EB: can you grab all that stuff outside my broken window and bring it in for me?
+TT: I'll give it a shot.
+EB: thx!
+TT: No luck.
+TT: It appears to be out of range. I'm guessing it is too far away from you, the "player".
+EB: :C
+
+
+TT: It seems expanding the dimensions of your room cost us some "Build Grist".
+TT: But deploying the lathe did not appear to incur any expense.
+TT: It looks like certain objects are freebies, probably to help you set up the game.
+EB: wow, ok.
+EB: what do they do?
+TT: I think it's up to you to find out.
+TT: All I can do is drop stuff in your house, and move it around, apparently.
+EB: how do i move stuff around? it sounds fun!
+TT: I don't think you can as the client. You will need to install the server application.
+TT: You should have received both in separate envelopes. I am running both on my computer right now.
+EB: what??
+TT: Did you get another envelope in the mail?
+EB: no!
+TT: Once you install the server and establish a connection, I'm sure you will be able to manipulate my environment in the same manner.
+TT: Are you sure you didn't get it?
+EB: oh man.
+EB: i think i might know where it is.
+
+TT: Now that your room is bigger, why don't you move to the far corner?
+TT: It will extend the range of the cursor, and I can reach the items.
+TT: Which... you threw out the window for some reason?
+EB: good idea!
+TT: What have you been doing in here all afternoon, anyway?
+EB: ugh, i was fussing with my retarded sylladex.
+EB: but i think i have it under control now.
+EB: what modus do you use?
+TT: I like to use trees.
+EB: oh no, that sounds so awkward.
+TT: It's not exceptionally practical.
+TT: But I think they are elegant.
